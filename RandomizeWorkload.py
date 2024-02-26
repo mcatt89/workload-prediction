@@ -2,6 +2,9 @@
 # 2/23/24
 # All code within is my own work.
 
+#Takes input CSV with Year, Month, Day, Hour, Weekday and then assigns a random int to Workload using Numpy
+#The workload is then modified based on the properties in the row to simulate a variable workload over the course of the time defined in the input 
+
 
 #Import Libraries
 import numpy as np
